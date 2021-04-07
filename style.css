@@ -71,25 +71,29 @@ p {
 @media (min-width: 600px) {
     img {
         width: 45%;
+        height: 45%;
+        /* margin: 0 1em; */
     }
     h2 {
         font-size: 64px;
     }
     .container {
+        width: 100%;
         display: flex;
-        justify-content: space-between;
+        justify-content: space-around;
+        align-items: center;
     }
 
     .matter {
-        width: 50%;
+        width: 45%;
     }
     .matter p {
+        width: 65%;
         font-size: 24px;
-        width: 55.5%;
         line-height: 35.54px;
     }
 
     .fine-print {
-        margin-top: 100px;
+        margin-top: 90px;
     }
 }
