@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Space Mono', monospace;
+    color: #333333;
+    padding: 0 1.5em;
+    font-weight: 400;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 25.18px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 71.09px;
+}
+
+p {
+    font-size: 1.125rem;
+    line-height: 26.66px;
+}
+
+.fine-print {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17.07px;
+    text-align: center;
+    color: #bdbdbd;
+}
+
+.fine-print a {
+    color: inherit;
+}
+
+.fine-print a:hover,
+.fine-print a:focus {
+    color: black;
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #333333;
+    color: white;
+    text-transform: uppercase;
+    padding: 24px 43px 23px 24px;
+    font-size: 14px;
+    font-weight: 700;
+    margin: 50px 0 100px 0;
+}
+
+.btn:hover,
+.btn:focus {
+    opacity: 0.8;
+}
+
+@media (min-width: 600px) {
+    img {
+        width: 45%;
+    }
+    h2 {
+        font-size: 64px;
+    }
+    .container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .matter {
+        width: 50%;
+    }
+    .matter p {
+        font-size: 24px;
+        width: 55.5%;
+        line-height: 35.54px;
+    }
+
+    .fine-print {
+        margin-top: 100px;
+    }
+}
