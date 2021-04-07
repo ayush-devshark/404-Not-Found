@@ -27,7 +27,7 @@
 ## Table of Contents
 
 -   [Overview](#overview)
-    -   [Built With](#built-with)
+-   [Built With](#built-with)
 -   [Features](#features)
 -   [Contact](#contact)
 -   [Acknowledgements](#acknowledgements)
@@ -41,9 +41,15 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 -   Where can I see your demo?
+
+    -   You can see demo by visting demo link above ☝🏻
+
 -   What was your experience?
+
+    -   It was an amazing experience, built fully responsive website using pure HTML & CSS.
+
 -   What have you learned/improved?
--   Your wisdom? :)
+    -   learned to use figma, using media query.
 
 ### Built With
 
@@ -62,10 +68,9 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
--   [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
+-   devchallenges.io for clear instructions, and access to resources.
 
 ## Contact
 
--   Website [your-website.com](https://{your-web-site-link})
--   GitHub [@your-username](https://github.com/ayush-devshark)
--   Twitter [@your-twitter](https://{twitter.com/your-username})
+-   GitHub [@ayush-devshark](https://github.com/ayush-devshark)
+-   Twitter [@ayush_devJS](https://twitter.com/@ayush_devJS)
